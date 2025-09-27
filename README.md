@@ -5,7 +5,6 @@ A comprehensive MERN stack blogging platform that empowers users to create, shar
 🌐 **Live Demo**: [https://blogifyfrontend-xi.vercel.app/](https://blogifyfrontend-xi.vercel.app/)
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/kulwantolkha/Blogify?style=for-the-badge" alt="Last Commit" />
   <img src="https://img.shields.io/github/languages/top/kulwantolkha/Blogify?style=for-the-badge&color=yellow" alt="Top Language" />
   <img src="https://img.shields.io/github/languages/count/kulwantolkha/Blogify?style=for-the-badge" alt="Languages" />
   <img src="https://img.shields.io/github/stars/kulwantolkha/Blogify?style=for-the-badge" alt="Stars" />
